@@ -4,7 +4,7 @@
 
 示例：
 
-- 算法：`sort(a.begin(), a.end())`
+- 算法 ：`sort(a.begin(), a.end())`
 - 容器：`priority_queue<int> pque`
 - 仿函数：`greater<int>()`
 - 迭代器：`vector<int>::iterator it = a.begin()`
